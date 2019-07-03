@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        ".html": "html",
+        "*.html": "html",
+        ".blade.php": "html",
+        "*.js": "javascriptreact"
+    }
+}

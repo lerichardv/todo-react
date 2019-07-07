@@ -1,6 +1,6 @@
 ## About this project
 
-This is a React TODO app, using laravel mix, gsap and other helpers. For now is just a todo app in frontend, next it will use laravel to power the backend of it.
+This is a React TODO app, using laravel mix, gsap and other helpers. For now is just a todo app in frontend, next it will use laravel to power the backend.
 
 ## Getting started
 
